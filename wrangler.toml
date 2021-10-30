@@ -1,0 +1,9 @@
+name = "donttext-api"
+type = "javascript"
+account_id = "df46b710ad41fb37460ee59921e5a43f"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [ 
+  { binding = "database", id = "e9e98528bc4a48f496c9185f46ba6687", preview_id = "cc69bc1528114d36b14b91db78ad15b9" }
+]
